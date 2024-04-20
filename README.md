@@ -7,5 +7,5 @@ https://studentdkit-my.sharepoint.com/:u:/g/personal/d00262384_student_dkit_ie/E
 
 ## Softwares used 
 
-Unreal Engine - version 5.0.3
-TouchDesigner - Non Comerical - version 2023.11510
+* Unreal Engine - version 5.0.3
+* TouchDesigner - Non Comerical - version 2023.11510
