@@ -17,4 +17,11 @@ https://studentdkit-my.sharepoint.com/:u:/g/personal/d00262384_student_dkit_ie/E
 * In the Unreal Engine project, select the level "OSC_Server4" in the "Content" folder. You can do this while waiting on TouchDesigner.  (the previous levels are from different stages of testing) 
 * Once Touchdesigner has dected your camera, click the play button in unreal Engine and your eye movement should trigger the relavant animations. 
 
+### Refrences 
+
+Grass texture - https://www.freepik.com/free-vector/seamless-textured-grass-natural-grass-pattern_11930799.htm#query=grass%20texture%20cartoon&position=17&from_view=keyword&track=ais&uuid=1885d61e-9553-4af6-894c-8f622504207d
+
+Sky textre - https://www.unrealengine.com/marketplace/en-US/product/hdri-cartoon-panoramas-vol-1-8k
+
+
 
